@@ -11,3 +11,7 @@
 section {
     padding-top: 5rem;
 }
+
+#about p {
+    text-align: left;
+}
